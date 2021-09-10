@@ -1,4 +1,4 @@
-# Bad Debt/Credit Machine Learning Model - Binary Classification (CAPSTONE PROJECT)
+# Bad Debt/Credit Scoring Machine Learning Model - Binary Classification (CAPSTONE PROJECT)
 This capstone project is a final work/project from Junior Data Science program (intermediate course) in an online summer class with RMDS Narasio Data (https://www.instagram.com/narasiodata/). In this work I have multiple objectives to be achieved:
 
 **1. Perform Bad Debt / Credit Analysis**
